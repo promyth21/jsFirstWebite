@@ -1,0 +1,2 @@
+# jsFirstWebite
+nothing special
